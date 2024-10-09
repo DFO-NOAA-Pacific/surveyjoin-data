@@ -1,3 +1,7 @@
+# 0.0.3
+
+* Add stratum codes for PBS and Alaska data
+
 # 0.0.2
 
 * Remove a small number of duplicated fishing events in PBS data
